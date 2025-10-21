@@ -39,4 +39,5 @@ Shadcn : css
 tweakcn: theme for shadcn
 clerk : auth
 neon : serveurless data base
-Prisma :
+Vapi : ai agent
+Sevalla : deployment
