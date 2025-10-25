@@ -35,3 +35,4 @@ clerk : auth
 neon : serveurless data base
 Vapi : ai agent
 Sevalla : deployment
+Prisma: as translator between the code and database; translates JS/TS code for the database instead of writing sql code
